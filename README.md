@@ -5,7 +5,7 @@ This project uses HTML5, CSS3, jQuery, and Javascript to opperate the toggle cla
 To visit the site click here: 
 <a href="http://sheryak-todo.surge.sh/" target="_blank">ToDoList!</a>
 
-To view my portfolio follow the links below;
+You can view my portfolio here;
 <a href="http://sheryak-portfolio.surge.sh/" target="_blank">sheryak-portfolio.surge.sh</a>
 -or-
 <a href="https://n8ers.github.io/portfolio/" target="_blank">n8ers.github.io/portfolio</a>
